@@ -1,7 +1,7 @@
 
 # Indian Food Image Classification 🍗🫓😋
 
-As part of my **Machine Learning internship with Coding Raja Technologies** , I undertook a comprehensive Food Classification project leveraging cutting-edge techniques to identify and classify different types of food items. The project incorporates `Convolutional Neural Network (CNN)` architectures, including `ResNetV2` and `EfficientNetV2`, to achieve accurate and efficient food classification. **EfficientNetV2** achieved the best accuracy `(~85%)` in this project.
+As part of my **Machine Learning internship with Coding Raja Technologies** , I undertook a comprehensive Food Classification project leveraging cutting-edge techniques to identify and classify different types of food items. The project incorporates `Convolutional Neural Network (CNN)` architectures, including `ResNetV2` and `EfficientNetV2`, to achieve accurate and efficient food classification. **EfficientNetV2** achieved the best accuracy `(~85%)` in this project. The model built in this project has the capability of classifying *20* different types of Indian food images including - **'chai', 'chapati', 'chole bhature', 'paani puri'**, etc.
 
 ### Features
 
